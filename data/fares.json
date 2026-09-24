@@ -1,0 +1,10 @@
+{
+  "note": "Sample fare tiers - edit these to match current ticket prices.",
+  "currency": "EGP",
+  "tiers": [
+    {"max_stations": 9, "price": 8},
+    {"max_stations": 16, "price": 10},
+    {"max_stations": 23, "price": 15},
+    {"max_stations": null, "price": 20}
+  ]
+}
